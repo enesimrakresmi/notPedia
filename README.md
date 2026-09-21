@@ -36,23 +36,23 @@ Sonucu ekranda görürsün, bir tıkla kopyalarsın ya da `.md` dosyası olarak 
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│  ⬡  Akıllı Wikipedia Çekici                            │
-│     · tr / en / de / fr · tüm dil varyantları          │
-│     · Mobil linkler & yönlendirmeler otomatik çözülür  │
-│     · Reklamsız, saf düz metin çekimi                  │
+│  &  Akıllı Wikipedia Çekici                             │
+│     · tr / en / de / fr · tüm dil varyantları           │
+│     · Mobil linkler & yönlendirmeler otomatik çözülür   │
+│     · Reklamsız, saf düz metin çekimi                   │
 ├─────────────────────────────────────────────────────────┤
-│  ⬡  Z.ai GLM-4.7-Flash Entegrasyonu                    │
-│     · Özet  ·  Önemli Noktalar                         │
-│     · Anahtar Terimler  ·  Çıkarımlar                  │
+│  &  Z.ai GLM-4.7-Flash Entegrasyonu                     │
+│     · Özet  ·  Önemli Noktalar                          │
+│     · Anahtar Terimler  ·  Çıkarımlar                   │
 ├─────────────────────────────────────────────────────────┤
-│  ⬡  Zengin Markdown Çıktı                              │
-│     · react-markdown + remark-gfm                      │
-│     · Tek tıkla panoya kopyala                         │
-│     · .md dosyası olarak indir (Blob API)              │
+│  &  Zengin Markdown Çıktı                               │
+│     · react-markdown + remark-gfm                       │
+│     · Tek tıkla panoya kopyala                          │
+│     · .md dosyası olarak indir (Blob API)               │
 ├─────────────────────────────────────────────────────────┤
-│  ⬡  Aşamalı Yüklenme Animasyonu                        │
-│     · Adım adım geri bildirim                          │
-│     · Kapsamlı hata yönetimi                           │
+│  &  Aşamalı Yüklenme Animasyonu                         │
+│     · Adım adım geri bildirim                           │
+│     · Kapsamlı hata yönetimi                            │
 └─────────────────────────────────────────────────────────┘
 ```
 
